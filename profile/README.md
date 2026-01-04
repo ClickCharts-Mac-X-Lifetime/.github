@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/ff/59/d1ff597a-5b74-50f9-3b98-a671997b70f7/app.png/1200x630bb.png" width="200" alt="ClickCharts macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/ClickCharts">
+ <a href="https://gnomik-gomik-apps.github.io/.github/ClickCharts">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open ClickCharts macOS page">
  </a><br><br>
  <div align="center">
@@ -15,7 +15,7 @@
  </div>
  </td>
  <td align="center" valign="middle">
- <img src="https://www.nchsoftware.com/chart/images/ss-clickcharts-main.jpg" width="500" alt="ClickCharts interface showing main workspace">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0t_DCUhJYGwiCl2zC4x8HoOdSuO8Sw1Meog&s" width="300" alt="ClickCharts interface showing main workspace">
  </td>
  </tr>
  </table>
